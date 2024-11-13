@@ -1,0 +1,1 @@
+export const API_SECRET = process.env.API_SECRET ? process.env.API_SECRET : "We_dont_need_security.People_have_good_hearts!!";
